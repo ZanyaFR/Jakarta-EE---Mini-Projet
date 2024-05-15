@@ -1,4 +1,4 @@
-package main.java.ch.hevs.OurEntities;
+package ch.hevs.OurEntities;
 
 public class Origin extends Country{
     private int originId;

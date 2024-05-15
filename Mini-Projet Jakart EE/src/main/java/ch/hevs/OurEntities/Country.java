@@ -1,4 +1,4 @@
-package main.java.ch.hevs.OurEntities;
+package ch.hevs.OurEntities;
 
 public abstract class Country{
     private int countryID;
